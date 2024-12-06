@@ -36,7 +36,9 @@
     "@sentry/nextjs": "^8.42.0",
     "@spotlightjs/spotlight": "^2.7.0",
     "@t3-oss/env-nextjs": "^0.11.1",
+    "date-fns": "^4.1.0",
     "drizzle-orm": "^0.37.0",
+    "gray-matter": "^4.0.3",
     "next": "^15.0.3",
     "next-intl": "^3.25.3",
     "pg": "^8.13.1",
@@ -45,6 +47,8 @@
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-hook-form": "^7.53.2",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
