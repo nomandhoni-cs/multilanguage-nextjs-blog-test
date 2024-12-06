@@ -1,0 +1,31 @@
+{
+  "Index": {
+    "hero": {
+      "title": "Welcome to Our Blog",
+      "description": "Discover insightful articles about technology, development, and more.",
+      "cta": "Read Our Blog"
+    },
+    "features": {
+      "1": {
+        "title": "Multiple Languages",
+        "description": "Content available in English, Spanish, and French"
+      },
+      "2": {
+        "title": "SEO Optimized",
+        "description": "Built with best practices for search engines"
+      },
+      "3": {
+        "title": "Markdown Support",
+        "description": "Write content easily using Markdown"
+      }
+    }
+  },
+  "Blog": {
+    "title": "Latest Posts"
+  },
+  "Navigation": {
+    "home": "Home",
+    "blog": "Blog",
+    "language": "Language"
+  }
+}
