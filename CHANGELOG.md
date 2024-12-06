@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/nomandhoni-cs/multilanguage-nextjs-blog-test/compare/v1.0.0...v1.1.0) (2024-12-06)
+
+
+### Features
+
+* adding blogs ([06f8d08](https://github.com/nomandhoni-cs/multilanguage-nextjs-blog-test/commit/06f8d08b6cb0a627418f01add73f0a8f6b96c596))
+
 # 1.0.0 (2024-12-06)
 
 
