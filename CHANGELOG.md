@@ -1,3 +1,10 @@
+# 1.0.0 (2024-12-06)
+
+
+### Features
+
+* adding blogs ([365e25f](https://github.com/nomandhoni-cs/multilanguage-nextjs-blog-test/commit/365e25f51fb0642e7f2124015df3769f02c9a079))
+
 ## [3.60.2](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.60.1...v3.60.2) (2024-12-05)
 
 
